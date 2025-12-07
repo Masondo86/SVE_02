@@ -1,0 +1,11 @@
+{
+  "domains": [
+    "malicious-example.com",
+    "phishy-site.example",
+    "bad-actor.example"
+  ],
+  "ips": [
+    "203.0.113.5",
+    "198.51.100.10"
+  ]
+}
